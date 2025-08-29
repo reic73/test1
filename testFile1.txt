@@ -1,3 +1,4 @@
 test main 1 7:08
 tambahkan commit pertama 7:38
 tambahkan commit 8:01
+tambahkan info 8:08
