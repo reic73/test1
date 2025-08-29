@@ -3,3 +3,4 @@ tambahkan commit pertama 7:38
 tambahkan commit 8:01
 tambahkan info 8:08
 tambahkan lagi 8.09
+add bug 1
