@@ -5,3 +5,4 @@ tambahkan info 8:08
 tambahkan lagi 8.09
 add bug 1
 add bug 2
+add feature 1
